@@ -1,0 +1,7 @@
+C:\Users\Fam_Val_Dua\Desktop\Belatrix\Belatrix\Belatrix.UnitTest\obj\Debug\Belatrix.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Fam_Val_Dua\Desktop\Belatrix\Belatrix\Belatrix.UnitTest\bin\Debug\Belatrix.UnitTest.dll
+C:\Users\Fam_Val_Dua\Desktop\Belatrix\Belatrix\Belatrix.UnitTest\bin\Debug\Belatrix.UnitTest.pdb
+C:\Users\Fam_Val_Dua\Desktop\Belatrix\Belatrix\Belatrix.UnitTest\bin\Debug\Belatrix.Log.dll
+C:\Users\Fam_Val_Dua\Desktop\Belatrix\Belatrix\Belatrix.UnitTest\bin\Debug\Belatrix.Log.pdb
+C:\Users\Fam_Val_Dua\Desktop\Belatrix\Belatrix\Belatrix.UnitTest\obj\Debug\Belatrix.UnitTest.dll
+C:\Users\Fam_Val_Dua\Desktop\Belatrix\Belatrix\Belatrix.UnitTest\obj\Debug\Belatrix.UnitTest.pdb

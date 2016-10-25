@@ -1,0 +1,4 @@
+C:\Users\Fam_Val_Dua\Desktop\Belatrix\Belatrix\Belatrix.Log\bin\Debug\Belatrix.Log.dll
+C:\Users\Fam_Val_Dua\Desktop\Belatrix\Belatrix\Belatrix.Log\bin\Debug\Belatrix.Log.pdb
+C:\Users\Fam_Val_Dua\Desktop\Belatrix\Belatrix\Belatrix.Log\obj\Debug\Belatrix.Log.dll
+C:\Users\Fam_Val_Dua\Desktop\Belatrix\Belatrix\Belatrix.Log\obj\Debug\Belatrix.Log.pdb

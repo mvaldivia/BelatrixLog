@@ -1,0 +1,8 @@
+C:\Users\Fam_Val_Dua\Desktop\Belatrix\Belatrix\Belatrix.Console\bin\Debug\Belatrix.Console.exe.config
+C:\Users\Fam_Val_Dua\Desktop\Belatrix\Belatrix\Belatrix.Console\obj\Debug\Belatrix.Console.csprojResolveAssemblyReference.cache
+C:\Users\Fam_Val_Dua\Desktop\Belatrix\Belatrix\Belatrix.Console\bin\Debug\Belatrix.Console.exe
+C:\Users\Fam_Val_Dua\Desktop\Belatrix\Belatrix\Belatrix.Console\bin\Debug\Belatrix.Console.pdb
+C:\Users\Fam_Val_Dua\Desktop\Belatrix\Belatrix\Belatrix.Console\bin\Debug\Belatrix.Log.dll
+C:\Users\Fam_Val_Dua\Desktop\Belatrix\Belatrix\Belatrix.Console\bin\Debug\Belatrix.Log.pdb
+C:\Users\Fam_Val_Dua\Desktop\Belatrix\Belatrix\Belatrix.Console\obj\Debug\Belatrix.Console.exe
+C:\Users\Fam_Val_Dua\Desktop\Belatrix\Belatrix\Belatrix.Console\obj\Debug\Belatrix.Console.pdb
